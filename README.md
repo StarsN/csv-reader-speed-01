@@ -1,3 +1,9 @@
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/StarsN/csv-reader-speed-01/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/StarsN/csv-reader-speed-01/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
+Built for the [make.fun bounty “Read broken CSV files faster, 21 November 2026”](https://make.fun/bounty/csv-reader-speed-01-run-20261121) — $100 in USDC. Referral code: `e7twrv07`.
+
 # csv-reader-speed-01 — a faster drop-in for csv-reader 1.0.0
 
 Entry for make.fun competition `csv-reader-speed-01-run-20261121`: write a faster
